@@ -1,2 +1,2 @@
-# BAmazon
-Node.js &amp; MySQL
+# BAmazon Using Node.js & MySQL
+
